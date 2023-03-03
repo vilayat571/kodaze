@@ -1,9 +1,9 @@
 import Layout from "../../layout/Layout";
-import { Helmet } from "react-helmet-async";
 import CoverDiv from "../../parts/Main/CoverDiv";
 import Helpdiv from "../../parts/Main/Helpdiv";
 import Latestblogs from "../../parts/Famousblogs/Latestblogs";
 import Informationdiver from "../Services/Informationdiver";
+import { Helmet } from "react-helmet-async";
 export default function Main() {
   return (
     <Layout>
