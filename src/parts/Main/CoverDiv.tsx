@@ -1,7 +1,4 @@
 import cover1 from "../../assets/images/homecover.png";
-import { Link } from "react-router-dom";
-import Coverdiver from "../../pages/Main/Coverdiver";
-import Agilebediv from "../../components/Main/Coverdiv/Agilebediv";
 import Agiledivparent from "../../components/Main/Coverdiv/Agiledivparent";
 
 export default function CoverDiv() {
